@@ -8,7 +8,6 @@
 - [Dataset](#dataset)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
 
@@ -82,9 +81,9 @@ The dataset includes:
 ---
 
 ## Results
-- *Best Model:* [Insert model name]
-- *Accuracy:* [Insert accuracy score]
-- *Other Metrics:* [Insert precision, recall, F1-score, etc.]
+- *Best Model:* Random Forest Classifier 
+- *Accuracy:* 99.00
+- *Other Metrics:* precision:100, recall:100, F1-score:100
 
 Visualization examples include:
 - Feature importance
