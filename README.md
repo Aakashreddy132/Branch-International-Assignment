@@ -58,8 +58,8 @@ The dataset includes:
 
 ## Technologies Used
 - *Programming Language:* Python
-- *Libraries:* NumPy, pandas, scikit-learn, matplotlib, seaborn, XGBoost
-- *Tools:* Jupyter Notebook, Git, Docker (optional for deployment)
+- *Libraries:* NumPy, pandas, scikit-learn, matplotlib, seaborn.
+- *Tools:* Jupyter Notebook, Git.
 - *Version Control:* GitHub
 
 ---
